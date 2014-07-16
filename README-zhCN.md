@@ -1,11 +1,11 @@
 # Ruby收藏
 
 这里收集了一些比较有价值的关于ruby 和 ruby on rails 的资源,此项目旨在维护一个结构清晰的目录,提供给一些初学者和高级的 web 开发人员.
-★&nbsp; 只是代表作者的选择.
+★&nbsp; 只是代表作者的选择.   
 在这里被收集的并不是随意罗列和 ruby 编程语言相关的资源.(因为在[ruby-toolbox.com](https://ruby-toolbox.com)已经收集了很多相关的类库),而这里的基本上都是一些实际使用中能够
-用得上的资源.在这里可以找到当前最新的书籍,还有经过测试验证的 gem. 还有一些活跃的网站.
+用得上的资源.在这里可以找到当前最新的书籍,还有经过测试验证的 gem. 还有一些活跃的网站.   
 
-还有一个地方[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)可以找到更多社区驱动的各种编程语言的收藏.
+还有一个地方[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)可以找到更多社区驱动的各种编程语言的收藏.   
 
 ## 书籍
 
