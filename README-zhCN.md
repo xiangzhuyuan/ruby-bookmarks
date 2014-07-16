@@ -131,7 +131,7 @@
 - [RubyInstaller](http://rubyinstaller.org) — a self-contained Windows-based installer that includes the Ruby language, an execution environment, important documentation, and more.
 - [RubyStack](https://bitnami.com/stack/ruby) — a complete development environment for Ruby on Rails that can be deployed in one click. It includes the latest stable release of Ruby, RVM, Rails, Apache, NGinx, MySQL, SQLite, Git and Subversion, Memcache and Varnish, Sphinx, PHP and phpMyAdmin.
 
-** 文档**
+**文档**
 
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 - [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
